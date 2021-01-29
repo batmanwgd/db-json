@@ -1,5 +1,4 @@
-"nodes": [
-    {
+{
       "id": 0,
       "name": "Node 0",
       "thumbnail": {
@@ -54,4 +53,3 @@
       "parent": null,
       "collapsed": true
     }
-  ]
